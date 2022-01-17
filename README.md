@@ -6,7 +6,7 @@
 - Its tested on v12.
 
 ## Initiazlization
-To Run this app, these commands need to be sequentially starting from the root direct of the repository.
+To Run this app, these commands need to be run sequentially starting from the root direct of the repository.
 ```sh
 cd ..
 npm i
